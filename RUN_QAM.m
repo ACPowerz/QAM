@@ -3,8 +3,8 @@
 tic
 clear,clc,close all;
 
-input1 = '3ECEA_Group No.5_Deang, Khatelyn Jhuneryll_INPUT.wav';
-input2 = '3ECEA_Group No.5_Enriquez, Mary Margot Sofia_INPUT.wav';
+input1 = '.wav'; %Input file names here
+input2 = '.wav'; 
 
 Fs = 500e3; %Sampling Frequency
 Fc = 200e3; %Carrier Frequency
